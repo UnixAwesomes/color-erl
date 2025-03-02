@@ -1,0 +1,5 @@
+{application, color, [
+    {description, "Coloring terminal Erlang"},
+    {vsn, "0.1"},
+    {applications, [kernel, stdlib]}
+  ]}.
